@@ -2,8 +2,10 @@
 ---
 ## HOME IS WHERE YOU MAKE IT
 ---
+### ABOUT US
+---
 ~~~
-Tienda online que ofrece a todo el país diferentes opciones de accecorios para decorar el hogar.
+Tienda online que ofrece a todo el país diferentes opciones de accecorios para decorar el hogar:
 -Habitación
 -Cocina
 -Jardín
@@ -13,10 +15,10 @@ Tienda online que ofrece a todo el país diferentes opciones de accecorios para 
 
 Nuestro público objetivo ronda entre 25 y 60 años.
 
-Experiencia única al usuario.
 ~~~
 
 ### TIPOGRAFÍA
+---
 ~~~
 [LexendZetta]:https://fonts.google.com/specimen/Lexend+Zetta?category=Serif,Sans+Serif,Display,Monospace&subset=latin&preview.size=32&preview.text=NEW%20ARRIVALS&preview.text_type=custom
 [Lexend Zetta][LexendZetta]
@@ -27,7 +29,11 @@ Experiencia única al usuario.
 [Mulish]:https://fonts.google.com/specimen/Mulish?category=Serif,Sans+Serif,Display,Monospace&subset=latin&preview.size=24&preview.text=Jarra%20de%20vidrio&preview.text_type=custom
 [Mulish][Mulish]
 
+### PALETA DE COLORES
+---
 
+
+### LOGO
 
 
 [MercadoLibre]:https://mercadolibre.com.ar
