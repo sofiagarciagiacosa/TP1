@@ -19,7 +19,6 @@ Nuestro público objetivo ronda entre 25 y 60 años.
 
 ### TIPOGRAFÍA
 ---
-~~~
 [LexendZetta]:https://fonts.google.com/specimen/Lexend+Zetta?category=Serif,Sans+Serif,Display,Monospace&subset=latin&preview.size=32&preview.text=NEW%20ARRIVALS&preview.text_type=custom
 [Lexend Zetta][LexendZetta]
 
