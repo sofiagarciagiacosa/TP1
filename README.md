@@ -1,6 +1,15 @@
-# García Giacosa- **Décor**
+# García Giacosa-Décor
 ---
-## Referencias
+## HOME IS WHERE YOU MAKE IT
+---
+Tienda online que ofrece a todo el país diferentes opciones de accecorios para decorar el hogar.
+*Cocina
+*Jardín
+*Laundry
+*Iluminación
+*Complementos
+
+Experiencia única al usuario.
 
 
 
