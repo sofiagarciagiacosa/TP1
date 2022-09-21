@@ -14,6 +14,7 @@ Tienda online que ofrece a todo el país diferentes opciones de accecorios para 
 -Iluminación
 -Complementos
 
+
 Nuestro público objetivo ronda entre 25 y 60 años.
 
 ~~~
@@ -31,15 +32,13 @@ Nuestro público objetivo ronda entre 25 y 60 años.
 
 ### PALETA DE COLORES
 ---
-![paleta-nuvemshop-307960](https://user-images.githubusercontent.com/112980625/191390787-c03b0d03-f053-41b3-ad51-c6c516208dde.png)
+![paleta-nuvemshop-dca38bnude](https://user-images.githubusercontent.com/112980625/191574757-d59fc6f2-6785-4c63-811b-49f82a08e286.png)
+![paleta-nuvemshop-f0e6b5oro](https://user-images.githubusercontent.com/112980625/191575679-4c1744f3-2258-4b8d-bfa8-9271e8e1bc6e.png)
+![paleta-nuvemshop-b5a4a3gris](https://user-images.githubusercontent.com/112980625/191576218-68f54848-48d9-4fe4-acab-6811b747404c.png)
+![paleta-nuvemshop-973835rojo](https://user-images.githubusercontent.com/112980625/191576342-9a9a5f14-714b-4110-b462-3ee0dcd7cb3b.png)
+![paleta-nuvemshop-ae84b2lila](https://user-images.githubusercontent.com/112980625/191576564-0c4f56c8-de5d-4479-8d6a-a27374141fcb.png)
+![paleta-nuvemshop-307960verde](https://user-images.githubusercontent.com/112980625/191576665-14e47b3a-1a54-438e-9971-707171832640.png)
 
-![PaletaNude](pa![paleta-nuvemshop-307960](https://user-images.githubusercontent.com/112980625/191390738-23a46a70-1cd3-4d22-81bc-90b42ee32c61.png)
-leta-nuvemshop-dca38b.png)
-![PaletaOro](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.12451/paleta-nuvemshop-f0e6b5.jpg)
-![PaletaGris](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.11651/paleta-nuvemshop-b5a4a3.jpg)
-![PaletaRojo](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.10695/paleta-nuvemshop-973835.jpg)
-![PaletaLila](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.11205/paleta-nuvemshop-ae84b2.jpg)
-![PaletaVerde](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.11205/paleta-nuvemshop-ae84b2.jpg)
 
 ### LOGO
 ---
