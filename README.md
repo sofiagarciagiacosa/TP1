@@ -1,4 +1,4 @@
-# García Giacosa-Décor
+# García Giacosa-AURA
 ---
 ## HOME IS WHERE YOU MAKE IT
 ---
