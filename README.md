@@ -1,6 +1,6 @@
 # García Giacosa - Aura.
 ---
-<<<<<<< HEAD
+
 ## HOME IS WHERE YOU MAKE IT
 ---
 ### ABOUT US
@@ -44,8 +44,4 @@ Nuestro público objetivo ronda entre 25 y 65 años.
 ---
 ![logogrande](https://user-images.githubusercontent.com/112980625/191588607-ff4613f8-db43-4db1-9c78-81fd3ffa71ca.png)
 =======
-## Referencias
-[MercadoLibre]:https://mercadolibre.com.ar
-[Mercado Libre][MercadoLibre]
->>>>>>> master
 
