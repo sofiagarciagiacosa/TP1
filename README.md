@@ -6,6 +6,7 @@
 ---
 ~~~
 Tienda online que ofrece a todo el país diferentes opciones de accecorios para decorar el hogar:
+
 -Habitación
 -Cocina
 -Jardín
@@ -30,10 +31,12 @@ Nuestro público objetivo ronda entre 25 y 60 años.
 
 ### PALETA DE COLORES
 ---
-
+![PaletaNude](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.12039/paleta-nuvemshop-dca38b.jpg)
+![PaletaOro](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.12451/paleta-nuvemshop-f0e6b5.jpg)
+![PaletaGris](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.11651/paleta-nuvemshop-b5a4a3.jpg)
+![PaletaRojo](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.10695/paleta-nuvemshop-973835.jpg)
+![PaletaLila](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.11205/paleta-nuvemshop-ae84b2.jpg)
+![PaletaVerde](file:///C:/Users/Sofia/AppData/Local/Temp/Rar$DRa8300.11205/paleta-nuvemshop-ae84b2.jpg)
 
 ### LOGO
-
-
-[MercadoLibre]:https://mercadolibre.com.ar
-[Mercado Libre][MercadoLibre]
+---
