@@ -41,3 +41,5 @@ Nuestro público objetivo ronda entre 25 y 60 años.
 
 ### LOGO
 ---
+![logogrande](https://user-images.githubusercontent.com/112980625/191588607-ff4613f8-db43-4db1-9c78-81fd3ffa71ca.png)
+
