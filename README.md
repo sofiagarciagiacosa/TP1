@@ -15,7 +15,7 @@ Tienda online que ofrece a todo el país diferentes opciones de accecorios para 
 -Complementos
 
 
-Nuestro público objetivo ronda entre 25 y 60 años.
+Nuestro público objetivo ronda entre 25 y 65 años.
 
 ~~~
 
